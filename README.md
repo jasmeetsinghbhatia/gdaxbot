@@ -29,9 +29,9 @@ At this point, you should be authorized to use the Slack RTM and Web APIs as a b
 4. **python gdaxbot.py**
 
 At this point, your script will be able to establish a connection with RTM API
-<img width="846" alt="screen shot 2018-01-20 at 5 55 54 pm" src="https://user-images.githubusercontent.com/5153163/35189973-6b573ce0-fe0b-11e7-83d4-1a25b9cfa9c3.png">
+<img width="655" alt="screen shot 2018-01-20 at 6 21 39 pm" src="https://user-images.githubusercontent.com/5153163/35190121-0430bb5a-fe0f-11e7-8951-e769571b7f42.png">
 
-## Ready to ask @gdaxbot some questions ??
+## Ready to ask @gdaxbot ??
 
 1. Get the slack client for your Mac/windows/linux or you can also access the web application at https://<your workspace>.slack.com
 2. Invite the bot to a channel of your choice using command **/invite @gdaxbot** or directly access the bot under apps section 
