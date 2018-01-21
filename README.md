@@ -33,7 +33,8 @@ At this point, your script will be able to establish a connection with RTM API
 
 ## Ready to ask @gdaxbot ??
 
-1. Get the slack client for your Mac/windows/linux or you can also access the web application at https://<your workspace>.slack.com
+1. Get the slack client for your Mac/windows/linux <br>
+or you can also access the web application **your-workspace.slack.com**
 2. Invite the bot to a channel of your choice using command **/invite @gdaxbot** or directly access the bot under apps section 
 3. Type something and see how the bot responds. <br> Soon you will discover the right commands to give to the @gdaxbot. 
 
